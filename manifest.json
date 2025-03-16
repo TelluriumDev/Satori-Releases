@@ -1,0 +1,11 @@
+{
+  "name": "Satori",
+  "entry": "Satori.dll",
+  "version": "0.0.1",
+  "type": "native",
+  "dependencies": [
+    {
+      "name": "iListenAttentively"
+    }
+  ]
+}
